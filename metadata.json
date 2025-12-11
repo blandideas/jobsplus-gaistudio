@@ -1,0 +1,5 @@
+{
+  "name": "JobsPlus - GAIStudio",
+  "description": "A smart simulator of a Chrome Extension for LinkedIn that filters expired jobs, detects sources, and provides AI-powered match scoring using Gemini.",
+  "requestFramePermissions": []
+}
